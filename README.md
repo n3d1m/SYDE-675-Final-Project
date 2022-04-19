@@ -1,6 +1,7 @@
 # SYDE-675-Final-Project
 
 Link to original paper: https://arxiv.org/pdf/2111.10207v1.pdf
+
 Link to original repository: https://github.com/aeesha-T/parkinsons_prediction_using_speech
 
 ## How to run the code:
